@@ -1,0 +1,101 @@
+order_id,order_date,customer_name,product_id,product_name,price,quantity,discount,profit,ship_date,payment_method,category,subcategory,city,region
+ORD1000,2023-06-27,Aditya Gupta,P100,Phone,107.88,9,0.3,121.46,2023-06-30,Debit Card,Technology,Phones,Bangalore,South
+ORD1001,2023-10-15,Ira Rana,P101,Headphones,772.58,5,0.3,553.23,2023-10-20,Credit Card,Office Supplies,Art,Mumbai,South
+ORD1002,2023-02-09,Vivaan Rana,P102,Headphones,193.63,5,0.11,185.02,2023-02-19,Net Banking,Technology,Storage,Ahmedabad,South
+ORD1003,2023-05-19,Diya Verma,P103,Headphones,186.78,5,0.07,237.26,2023-05-29,Credit Card,Furniture,Chairs,Hyderabad,North
+ORD1004,2023-09-04,Arjun Kaur,P104,Tablet,869.01,8,0.08,980.83,2023-09-13,Debit Card,Furniture,Bookcases,Bangalore,East
+ORD1005,2023-10-02,Meera Iyer,P105,Printer,904.03,7,0.24,577.15,2023-10-05,Net Banking,Technology,Phones,Mumbai,North
+ORD1006,2023-07-19,Aadhya Patel,P106,Headphones,720.57,5,0.07,383.96,2023-07-29,Cash,Office Supplies,Art,Ahmedabad,East
+ORD1007,2023-05-13,Arjun Chopra,P107,Monitor,542.84,6,0.17,776.17,2023-05-22,UPI,Office Supplies,Labels,Chennai,East
+ORD1008,2023-03-21,Rohan Mehta,P108,Monitor,906.7,2,0.25,251.62,2023-03-31,Cash,Furniture,Furnishings,Bangalore,East
+ORD1009,2023-09-10,Sneha Kaur,P109,Phone,692.89,2,0.12,124.1,2023-09-12,Debit Card,Office Supplies,Labels,Pune,South
+ORD1010,2023-01-23,Kiara Rana,P110,Laptop,910.67,2,0.12,359.6,2023-01-28,Net Banking,Technology,Networking,Delhi,South
+ORD1011,2023-10-05,Krishna Chopra,P111,Printer,829.02,8,0.26,1036.47,2023-10-07,Net Banking,Office Supplies,Labels,Ahmedabad,East
+ORD1012,2023-03-10,Ishaan Jain,P112,Printer,969.47,6,0.05,1231.44,2023-03-16,Credit Card,Technology,Computers,Kolkata,North
+ORD1013,2023-07-18,Aadhya Gupta,P113,Keyboard,186.37,5,0.26,201.02,2023-07-26,Debit Card,Technology,Computers,Mumbai,West
+ORD1014,2023-05-26,Krishna Yadav,P114,Tablet,954.65,4,0.09,750.37,2023-06-04,Credit Card,Technology,Phones,Lucknow,East
+ORD1015,2023-05-05,Aisha Jain,P115,Camera,620.23,5,0.02,795.19,2023-05-14,UPI,Furniture,Furnishings,Chennai,South
+ORD1016,2023-04-03,Meera Mehta,P116,Headphones,301.35,6,0.15,349.02,2023-04-13,UPI,Furniture,Bookcases,Ahmedabad,South
+ORD1017,2023-04-21,Ananya Gupta,P117,Laptop,107.25,6,0.3,115.39,2023-04-27,Debit Card,Office Supplies,Pens,Chennai,North
+ORD1018,2023-04-28,Kavya Pandey,P118,Camera,224.19,9,0.08,399.78,2023-05-03,Cash,Technology,Accessories,Delhi,North
+ORD1019,2023-08-14,Priya Mehta,P119,Laptop,722.85,7,0.28,846.14,2023-08-20,Debit Card,Furniture,Chairs,Jaipur,West
+ORD1020,2023-05-12,Shreya Ghosh,P120,Printer,603.12,2,0.03,307.78,2023-05-21,UPI,Technology,Networking,Ahmedabad,West
+ORD1021,2023-02-07,Diya Mehta,P121,Keyboard,810.58,3,0.22,368.29,2023-02-12,Debit Card,Office Supplies,Binders,Jaipur,North
+ORD1022,2023-04-12,Riya Rana,P122,Router,164.05,5,0.14,146.32,2023-04-19,Cash,Office Supplies,Binders,Kolkata,East
+ORD1023,2023-10-09,Sneha Pandey,P123,Tablet,719.45,2,0.27,182.7,2023-10-18,Net Banking,Technology,Phones,Lucknow,West
+ORD1024,2023-08-20,Avni Kaur,P124,Keyboard,242.2,6,0.25,184.86,2023-08-30,Cash,Office Supplies,Paper,Chennai,East
+ORD1025,2023-03-29,Ananya Agarwal,P125,Mouse,184.66,2,0.02,69.39,2023-04-02,Credit Card,Office Supplies,Binders,Chennai,North
+ORD1026,2023-07-16,Meera Rana,P126,Laptop,493.27,8,0.04,652.44,2023-07-23,Net Banking,Furniture,Tables,Delhi,West
+ORD1027,2023-02-11,Arjun Das,P127,Tablet,709.48,3,0.03,498.2,2023-02-13,Cash,Office Supplies,Art,Mumbai,North
+ORD1028,2023-09-22,Kabir Das,P128,Laptop,473.99,4,0.02,311.87,2023-09-28,Debit Card,Office Supplies,Art,Lucknow,West
+ORD1029,2023-10-12,Riya Gupta,P129,Laptop,740.47,8,0.24,889.43,2023-10-18,Credit Card,Furniture,Chairs,Jaipur,East
+ORD1030,2023-01-02,Aditya Reddy,P130,Phone,333.22,6,0.25,155.88,2023-01-11,Net Banking,Office Supplies,Art,Bangalore,West
+ORD1031,2023-03-08,Simran Yadav,P131,Tablet,475.4,3,0.05,153.06,2023-03-10,Net Banking,Office Supplies,Binders,Jaipur,East
+ORD1032,2023-10-03,Nisha Singh,P132,Headphones,792.63,8,0.23,1051.89,2023-10-11,Cash,Furniture,Bookcases,Ahmedabad,South
+ORD1033,2023-01-08,Tanya Ghosh,P133,Headphones,432.08,7,0.07,832.46,2023-01-13,Net Banking,Technology,Computers,Mumbai,West
+ORD1034,2023-04-08,Kabir Pillai,P134,Laptop,387.72,8,0.21,321.11,2023-04-13,Cash,Furniture,Tables,Bangalore,North
+ORD1035,2023-01-24,Priya Yadav,P135,Phone,127.66,5,0.13,108.6,2023-01-29,Debit Card,Office Supplies,Art,Kolkata,West
+ORD1036,2023-02-18,Aadhya Verma,P136,Laptop,611.62,7,0.15,1001.75,2023-02-24,UPI,Furniture,Tables,Kolkata,East
+ORD1037,2023-09-28,Aarohi Chopra,P137,Tablet,998.23,3,0.04,311.99,2023-10-05,Credit Card,Technology,Phones,Jaipur,South
+ORD1038,2023-07-31,Saanvi Reddy,P138,Camera,591.44,1,0.02,70.67,2023-08-02,Cash,Office Supplies,Binders,Mumbai,West
+ORD1039,2023-04-23,Nisha Iyer,P139,Phone,247.75,6,0.02,326.22,2023-04-30,Cash,Furniture,Bookcases,Bangalore,North
+ORD1040,2023-07-02,Reyansh Patel,P140,Keyboard,785.31,3,0.23,215.3,2023-07-10,Cash,Technology,Storage,Hyderabad,East
+ORD1041,2023-09-29,Anika Pandey,P141,Laptop,182.37,4,0.01,111.39,2023-10-03,UPI,Technology,Accessories,Mumbai,East
+ORD1042,2023-02-16,Aarav Kaur,P142,Router,631.37,5,0.02,592.72,2023-02-25,Net Banking,Office Supplies,Binders,Kolkata,East
+ORD1043,2023-07-24,Riya Pillai,P143,Headphones,918.89,7,0.16,1590.49,2023-07-29,Credit Card,Furniture,Furnishings,Bangalore,East
+ORD1044,2023-07-27,Kabir Pandey,P144,Laptop,698.18,7,0.14,995.56,2023-08-04,Credit Card,Furniture,Tables,Delhi,North
+ORD1045,2023-04-18,Anika Rana,P145,Phone,810.51,3,0.23,295.67,2023-04-25,Net Banking,Technology,Storage,Kolkata,South
+ORD1046,2023-07-20,Tanya Agarwal,P146,Mouse,124.52,4,0.14,92.75,2023-07-30,Credit Card,Technology,Phones,Kolkata,East
+ORD1047,2023-05-26,Diya Patel,P147,Mouse,773.03,1,0.26,121.19,2023-05-31,Debit Card,Technology,Storage,Pune,West
+ORD1048,2023-03-10,Avni Gupta,P148,Router,721.66,2,0.13,153.26,2023-03-18,Credit Card,Furniture,Chairs,Ahmedabad,East
+ORD1049,2023-05-10,Anika Ghosh,P149,Phone,506.24,8,0.13,686.11,2023-05-12,Credit Card,Office Supplies,Binders,Mumbai,West
+ORD1050,2023-03-01,Ayaan Yadav,P150,Headphones,310.0,3,0.28,163.88,2023-03-09,Credit Card,Furniture,Chairs,Hyderabad,South
+ORD1051,2023-07-15,Simran Bose,P151,Keyboard,168.01,4,0.15,65.84,2023-07-25,Credit Card,Office Supplies,Binders,Ahmedabad,East
+ORD1052,2023-07-22,Tanya Pillai,P152,Camera,604.36,3,0.18,250.06,2023-07-28,Debit Card,Furniture,Chairs,Bangalore,West
+ORD1053,2023-06-26,Kiara Verma,P153,Monitor,230.31,9,0.12,408.19,2023-06-30,Cash,Technology,Networking,Mumbai,West
+ORD1054,2023-10-14,Ayaan Bose,P154,Mouse,211.68,5,0.21,213.1,2023-10-17,UPI,Office Supplies,Art,Delhi,West
+ORD1055,2023-03-22,Tanya Patel,P155,Headphones,926.32,1,0.07,167.33,2023-04-01,UPI,Technology,Accessories,Jaipur,North
+ORD1056,2023-04-11,Reyansh Singh,P156,Headphones,428.34,1,0.24,43.23,2023-04-18,Debit Card,Technology,Accessories,Mumbai,West
+ORD1057,2023-03-05,Shreya Mehta,P157,Laptop,427.77,4,0.18,167.11,2023-03-12,UPI,Office Supplies,Pens,Chennai,West
+ORD1058,2023-05-31,Rohan Iyer,P158,Printer,496.37,8,0.13,605.3,2023-06-10,Net Banking,Office Supplies,Labels,Delhi,East
+ORD1059,2023-08-16,Ishaan Kaur,P159,Keyboard,671.32,9,0.26,1329.68,2023-08-21,Net Banking,Technology,Computers,Hyderabad,South
+ORD1060,2023-08-02,Anika Singh,P160,Tablet,623.99,6,0.02,1016.91,2023-08-07,Debit Card,Office Supplies,Paper,Ahmedabad,West
+ORD1061,2023-10-25,Diya Singh,P161,Camera,175.56,5,0.21,163.4,2023-10-30,Debit Card,Furniture,Tables,Jaipur,South
+ORD1062,2023-10-07,Anika Das,P162,Printer,736.76,8,0.25,600.62,2023-10-16,UPI,Office Supplies,Art,Jaipur,North
+ORD1063,2023-01-08,Rohan Das,P163,Printer,239.5,5,0.08,166.25,2023-01-17,Credit Card,Office Supplies,Labels,Chennai,East
+ORD1064,2023-10-06,Riya Rana,P164,Tablet,287.18,1,0.02,38.46,2023-10-12,UPI,Technology,Computers,Jaipur,West
+ORD1065,2023-09-22,Aarav Agarwal,P165,Laptop,243.78,4,0.17,171.24,2023-09-26,Credit Card,Office Supplies,Labels,Chennai,North
+ORD1066,2023-04-02,Simran Das,P166,Headphones,199.77,3,0.22,82.48,2023-04-06,Cash,Technology,Computers,Pune,East
+ORD1067,2023-09-12,Arjun Das,P167,Mouse,463.68,8,0.24,839.41,2023-09-14,UPI,Furniture,Tables,Lucknow,West
+ORD1068,2023-07-31,Tanya Pandey,P168,Laptop,618.18,1,0.01,114.17,2023-08-10,UPI,Furniture,Storage,Ahmedabad,North
+ORD1069,2023-02-24,Priya Ghosh,P169,Mouse,580.86,2,0.07,303.02,2023-03-04,Debit Card,Technology,Phones,Kolkata,West
+ORD1070,2023-10-10,Priya Gupta,P170,Phone,919.7,8,0.06,1426.65,2023-10-13,Credit Card,Technology,Accessories,Mumbai,East
+ORD1071,2023-09-27,Saanvi Patel,P171,Tablet,809.23,6,0.26,524.78,2023-09-29,UPI,Furniture,Storage,Mumbai,North
+ORD1072,2023-05-31,Simran Jain,P172,Tablet,209.76,1,0.28,30.74,2023-06-09,Net Banking,Furniture,Tables,Hyderabad,South
+ORD1073,2023-05-02,Aadhya Pandey,P173,Printer,243.68,4,0.08,107.06,2023-05-05,Debit Card,Office Supplies,Binders,Jaipur,East
+ORD1074,2023-03-28,Saanvi Sharma,P174,Monitor,740.27,8,0.02,868.05,2023-04-06,Net Banking,Furniture,Storage,Bangalore,South
+ORD1075,2023-02-03,Shreya Bose,P175,Keyboard,251.27,7,0.13,338.75,2023-02-10,Debit Card,Technology,Networking,Ahmedabad,South
+ORD1076,2023-01-18,Riya Das,P176,Laptop,749.58,9,0.17,699.02,2023-01-24,Debit Card,Office Supplies,Art,Mumbai,North
+ORD1077,2023-10-20,Myra Chopra,P177,Mouse,223.4,5,0.19,202.73,2023-10-29,UPI,Technology,Phones,Lucknow,North
+ORD1078,2023-01-13,Kabir Jain,P178,Phone,551.63,1,0.3,93.01,2023-01-16,Debit Card,Technology,Phones,Mumbai,East
+ORD1079,2023-08-21,Sneha Iyer,P179,Monitor,311.33,4,0.1,309.55,2023-08-31,Cash,Office Supplies,Art,Jaipur,North
+ORD1080,2023-03-23,Diya Nair,P180,Monitor,342.75,7,0.16,400.64,2023-03-28,UPI,Furniture,Chairs,Lucknow,South
+ORD1081,2023-03-18,Nisha Gupta,P181,Monitor,523.8,7,0.23,362.54,2023-03-21,Credit Card,Technology,Phones,Pune,South
+ORD1082,2023-09-03,Simran Iyer,P182,Laptop,600.33,2,0.3,134.0,2023-09-10,Net Banking,Furniture,Storage,Lucknow,South
+ORD1083,2023-09-01,Anika Agarwal,P183,Keyboard,657.61,1,0.1,100.41,2023-09-11,Cash,Office Supplies,Binders,Pune,North
+ORD1084,2023-05-13,Rohan Jain,P184,Phone,932.48,3,0.01,630.93,2023-05-20,Debit Card,Technology,Accessories,Delhi,East
+ORD1085,2023-07-01,Nisha Verma,P185,Monitor,107.92,9,0.02,113.71,2023-07-03,UPI,Furniture,Tables,Lucknow,East
+ORD1086,2023-02-01,Aadhya Singh,P186,Tablet,800.92,1,0.23,175.84,2023-02-06,Cash,Technology,Storage,Pune,East
+ORD1087,2023-09-14,Sneha Iyer,P187,Router,202.07,9,0.06,383.84,2023-09-17,Cash,Furniture,Bookcases,Chennai,South
+ORD1088,2023-09-26,Aditya Rana,P188,Printer,637.39,7,0.26,508.26,2023-10-02,Cash,Technology,Networking,Hyderabad,North
+ORD1089,2023-06-22,Simran Yadav,P189,Headphones,777.91,1,0.18,127.5,2023-06-29,Net Banking,Furniture,Tables,Bangalore,East
+ORD1090,2023-02-17,Arjun Sharma,P190,Camera,571.86,1,0.15,99.77,2023-02-24,Debit Card,Furniture,Furnishings,Lucknow,East
+ORD1091,2023-01-18,Kavya Bose,P191,Camera,408.48,2,0.0,113.53,2023-01-26,Net Banking,Furniture,Furnishings,Lucknow,South
+ORD1092,2023-02-10,Ishaan Mehta,P192,Mouse,235.04,1,0.2,30.91,2023-02-16,Credit Card,Furniture,Furnishings,Kolkata,South
+ORD1093,2023-09-14,Aditya Nair,P193,Laptop,404.06,9,0.12,420.27,2023-09-23,Cash,Office Supplies,Paper,Ahmedabad,West
+ORD1094,2023-05-11,Kabir Singh,P194,Tablet,423.21,9,0.29,628.49,2023-05-14,Debit Card,Furniture,Furnishings,Pune,North
+ORD1095,2023-02-11,Vivaan Patel,P195,Tablet,834.97,2,0.19,180.38,2023-02-13,Net Banking,Furniture,Tables,Jaipur,South
+ORD1096,2023-03-07,Myra Chopra,P196,Laptop,877.67,1,0.23,78.47,2023-03-14,Debit Card,Office Supplies,Paper,Ahmedabad,West
+ORD1097,2023-02-08,Ishaan Verma,P197,Mouse,454.41,5,0.22,199.02,2023-02-17,Cash,Furniture,Storage,Hyderabad,South
+ORD1098,2023-10-11,Ishaan Singh,P198,Camera,132.37,7,0.23,191.45,2023-10-16,Credit Card,Technology,Storage,Pune,West
+ORD1099,2023-09-25,Arjun Patel,P199,Monitor,261.16,9,0.2,432.21,2023-09-29,UPI,Office Supplies,Binders,Jaipur,North
